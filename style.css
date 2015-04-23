@@ -1,0 +1,31 @@
+body {
+	background: #212121;
+	/*color: #50E3C2;*/
+	color: #fefefe;
+	width: 100%;
+	text-align: center;
+	margin: 25% auto;
+	font-family: Georgia;
+}
+
+.question {
+	color: #eeeeee;
+	font-size: 3rem;
+}
+
+.choice {
+/*	display: none;
+*/}
+
+ul, li {
+	list-style: none;
+}
+
+li {
+	font-size: 2rem;
+}
+
+li:hover {
+	color: #50e3c2;
+	cursor: pointer;
+}
